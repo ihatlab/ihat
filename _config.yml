@@ -1,3 +1,10 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: iHAT Lab
+logo: /assets/img/logo.png
+description: Interactive Human-AI Teaming Laboratory. The iHAT lab is dedicated to pioneering research that harness the potential of Human-AI teaming, enabling smarter decision-making and enhanced productivity.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
